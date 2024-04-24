@@ -1,4 +1,7 @@
 # damage-calc
+[![Damage Calculation Test](https://github.com/insreps/damage-calc-4005-gh-actions/actions/workflows/main.yml/badge.svg)](https://github.com/insreps/damage-calc-4005-gh-actions/actions/workflows/main.yml)
+
+# 可能なこと
 このモジュールでは、ダメージ計算を行うことができます。  
 
 計算モジュールに
